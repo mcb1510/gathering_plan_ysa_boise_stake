@@ -39,9 +39,21 @@ markdown_extensions:
 nav:
   - Home: README.md
   - Gathering Plan: 01-gathering-plan.md
-  - Stake YSA Council: 02-stake-ysa-council.md
-  - Stake Activities Committee: 03-stake-activities-committee.md
-  - Stake Athletics Committee: 04-stake-athletics-committee.md
-  - Stake Education & Enrichment Committee: 05-stake-education-enrichment-committee.md
+  - Stake YSA Council:
+      - Overview: stake-ysa-council/index.md
+      - Roles: stake-ysa-council/roles.md
+      - Detailed Charter: stake-ysa-council/detailed-charter.md
+  - Stake Activities Committee:
+      - Overview: stake-activities-committee/index.md
+      - Roles: stake-activities-committee/roles.md
+      - Detailed Charter: stake-activities-committee/detailed-charter.md
+  - Stake Athletics Committee:
+      - Overview: stake-athletics-committee/index.md
+      - Roles: stake-athletics-committee/roles.md
+      - Detailed Charter: stake-athletics-committee/detailed-charter.md
+  - Stake Education & Enrichment Committee:
+      - Overview: stake-education-enrichment-committee/index.md
+      - Roles: stake-education-enrichment-committee/roles.md
+      - Detailed Charter: stake-education-enrichment-committee/detailed-charter.md
   - Married Adults Committee: 06-married-adults-committee.md
   - Additional Stake-Level Roles: 07-additional-roles.md
