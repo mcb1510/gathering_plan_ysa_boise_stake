@@ -1,0 +1,47 @@
+site_name: Boise Idaho YSA Stake — Gathering Plan Guide
+site_description: Councils, committees, role charters, and the Married Couples Orientation Guide
+repo_url: https://github.com/mcb1510/gathering_plan_ysa_boise_stake
+repo_name: gathering_plan_ysa_boise_stake
+docs_dir: docs
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - toc.integrate
+    - search.suggest
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Home: README.md
+  - Gathering Plan: 01-gathering-plan.md
+  - Stake YSA Council: 02-stake-ysa-council.md
+  - Stake Activities Committee: 03-stake-activities-committee.md
+  - Stake Athletics Committee: 04-stake-athletics-committee.md
+  - Stake Education & Enrichment Committee: 05-stake-education-enrichment-committee.md
+  - Married Adults Committee: 06-married-adults-committee.md
+  - Additional Stake-Level Roles: 07-additional-roles.md
