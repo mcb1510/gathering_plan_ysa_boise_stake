@@ -1,0 +1,115 @@
+[data-md-color-primary="custom"] {
+  --md-primary-fg-color: #006184;
+  --md-primary-fg-color--light: #3c879f;
+  --md-primary-fg-color--dark: #00445c;
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: hsla(0, 0%, 100%, 0.7);
+}
+
+.md-typeset h1 {
+  color: var(--md-default-fg-color);
+}
+
+/* Priority chart — numbered step cards */
+.priority-chart {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin: 1.5rem 0;
+}
+
+.priority-step {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: var(--md-code-bg-color);
+  border-left: 4px solid #006184;
+  border-radius: 0.25rem;
+  padding: 0.5rem 1rem;
+}
+
+.priority-number {
+  flex-shrink: 0;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: #006184;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+.priority-text {
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+/* Constrain content width on pages with the navigation sidebar hidden,
+   so the text doesn't stretch edge-to-edge across the full screen */
+.md-sidebar--primary[hidden] ~ .md-content {
+  max-width: 50rem;
+  margin: 0 auto;
+}
+
+
+/* Let the top tab bar wrap onto additional rows instead of scrolling
+   horizontally, center it, and make it a bit more compact */
+.md-tabs__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  overflow: visible;
+  white-space: normal;
+  row-gap: 0;
+  padding-bottom: 0.5rem;
+}
+
+/* Zero-size break item (inserted via overrides/partials/tabs.html after
+   the 6th tab) that forces a line wrap: exactly 6 tabs on row one, the
+   rest on row two, each row still centered independently by justify-content */
+.md-tabs__break {
+  flex-basis: 100%;
+  height: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.md-tabs__item {
+  height: 1.5rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.md-tabs__link {
+  font-size: 0.65rem;
+  margin-top: 0.2rem;
+}
+
+/* Generic centering helper for page content (e.g. the Home page) */
+.text-center {
+  text-align: center;
+}
+
+.centered-image {
+  display: block;
+  margin: 1.5rem auto;
+  max-width: 100%;
+  border-radius: 0.25rem;
+}
+
+/* Tighten the default gap between sidebar rows so they sit closer together. */
+.md-sidebar--primary .md-nav__link {
+  margin-top: 0.3em;
+}
+
+/* Bold the level-2 items (Overall Plan, Stake Activities, Overview, Roles,
+   etc.) to distinguish them from the level-3 headings nested under them.
+   Targeted by DOM depth: a level-2 link is a direct child of an <li> that
+   is itself a direct child of the level-1 section's own nav/list, so this
+   doesn't also match the level-3 heading links nested one level deeper. */
+.md-sidebar--primary nav[data-md-level="1"] > .md-nav__list > .md-nav__item > a.md-nav__link {
+  font-weight: 700;
+}
