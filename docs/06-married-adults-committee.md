@@ -86,7 +86,8 @@ Young single adults are unmarried adult members of the Church, ages 18 to 35 (Ge
 | Leaders, presidencies, activity leads, ministers | Helpers, the youth committee, chaperones, supervisors |
 | Counsel with, train, support, share experience | Run it for them, take over, manage them, keep them in line |
 
-> **This is not a youth calling.** Youth programs protect, supervise, and prepare minors. This calling is different. You serve adults. Treat them as peers in the gospel who happen to have less leadership experience than you.
+!!! tip "This is not a youth calling"
+    Youth programs protect, supervise, and prepare minors. This calling is different. You serve adults. Treat them as peers in the gospel who happen to have less leadership experience than you.
 
 **This Is a Training Stake**
 
@@ -140,7 +141,8 @@ The General Handbook is the first and governing resource for your calling. Local
 
 Also, please study *Strengthening Young Single Adults*, especially the counsel to listen first, understand without judging, and follow the Savior by serving before teaching or inviting ("The Young Single Adult Committee," https://www.churchofjesuschrist.org/study/manual/strengthening-young-single-adults-manual/01-ysa-committee). You can find the handbook at ChurchofJesusChrist.org under General Handbook, or in the Gospel Library app.
 
-> **A simple rule.** When you are unsure, open the handbook with the young adult leader you are supporting. Learning the handbook together is a great opportunity.
+!!! tip "A simple rule"
+    When you are unsure, open the handbook with the young adult leader you are supporting. Learning the handbook together is a great opportunity.
 
 ### The Stake Vision and Gathering Plan
 
@@ -206,7 +208,8 @@ Make a genuine effort to attend:
 - Athletics nights and open play, even if you only stay for the opening prayer and a few conversations
 - Institute classes or enrichment nights from time to time
 
-> **How to be present without taking over.** Arrive as a guest and a friend, not as staff. Let young adult leaders greet, conduct, and close; this is itself an invitation to lead, not a hand-off you're merely tolerating. Find the person standing alone. Learn a name. Ask a real question, and then actually listen to the answer rather than moving on to the next greeting. Stay off to the side of the program. If something is going poorly, help the leader succeed rather than stepping up to the microphone; seek the Spirit to discern whether the moment calls for a quiet word to the leader afterward or no intervention at all. The goal is for them to feel stronger because you came, not for the event to run because you did.
+!!! tip "How to be present without taking over"
+    Arrive as a guest and a friend, not as staff. Let young adult leaders greet, conduct, and close; this is itself an invitation to lead, not a hand-off you're merely tolerating. Find the person standing alone. Learn a name. Ask a real question, and then actually listen to the answer rather than moving on to the next greeting. Stay off to the side of the program. If something is going poorly, help the leader succeed rather than stepping up to the microphone; seek the Spirit to discern whether the moment calls for a quiet word to the leader afterward or no intervention at all. The goal is for them to feel stronger because you came, not for the event to run because you did.
 
 **Individual ministering**
 
@@ -274,13 +277,13 @@ We are grateful you are here. We love you. The young adults of this stake will b
 
 Welcome to the work!
 
-> **Keep this close**
-> - They are young adults and brothers and sisters, never "youth" or "kids".
-> - This is a training stake. Listen, observe, share experience. Let them lead.
-> - Encourage, inspire, motivate. Correct privately, with kindness.
-> - Be at firesides, activities, service, athletics, and FHE.
-> - Minister one by one. Open the handbook.
-> - Point every effort to Jesus Christ.
+!!! tip "Keep this close"
+    - They are young adults and brothers and sisters, never "youth" or "kids".
+    - This is a training stake. Listen, observe, share experience. Let them lead.
+    - Encourage, inspire, motivate. Correct privately, with kindness.
+    - Be at firesides, activities, service, athletics, and FHE.
+    - Minister one by one. Open the handbook.
+    - Point every effort to Jesus Christ.
 
 ## Detailed Charter and Meeting Plan
 
@@ -303,7 +306,8 @@ The Married Adults Committee is established by the Boise Idaho YSA Stake Preside
 - **Counsel together.** Counsel together regularly to identify and meet the needs of young single adults.
 - **Reinforce the role of YSAs.** Reinforce the role of young single adults in the stake and how married adults can best teach, minister, mentor, support, and invite them to come unto Christ, keep covenants, prepare for the temple, and develop practical life skills.
 
-> **The vision this committee serves.** A stake where every young single adult is seen, known, loved, and drawn toward Jesus Christ and sacred covenants. Every training topic, shared idea, and agenda item exists to move that vision forward.
+!!! abstract "The vision this committee serves"
+    A stake where every young single adult is seen, known, loved, and drawn toward Jesus Christ and sacred covenants. Every training topic, shared idea, and agenda item exists to move that vision forward.
 
 This committee mirrors the pattern generally described for young single adult committees: married and single adults counseling together, under priesthood direction, to help YSAs come unto Christ (*Strengthening Young Single Adults*, "The Young Single Adult Committee," https://www.churchofjesuschrist.org/study/manual/strengthening-young-single-adults-manual/01-ysa-committee).
 
@@ -325,7 +329,8 @@ Membership includes every married adult sustained to a calling that serves the B
 
 The Stake Presidency appoints a Committee Coordinator from among the married adults serving in the stake. The Coordinator convenes and conducts committee meetings, coordinates with the Stake Presidency liaison, and ensures the annual meeting plan in Section 7 is carried out.
 
-> **This is a peer counsel, not a program office.** The committee does not run activities, athletics, or enrichment for young single adults; young adult leaders own that work. The committee exists so the married adults supporting them can counsel together, train, and grow more capable as mentors.
+!!! abstract "This is a peer counsel, not a program office"
+    The committee does not run activities, athletics, or enrichment for young single adults; young adult leaders own that work. The committee exists so the married adults supporting them can counsel together, train, and grow more capable as mentors.
 
 ### Roles and Responsibilities
 

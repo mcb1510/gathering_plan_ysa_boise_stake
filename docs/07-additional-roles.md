@@ -86,7 +86,8 @@ Use this checklist for every stake or ward YSA activity, from a small social to 
 - [ ] Focus on Jesus Christ and the Atonement (spiritual depth, healing)
 - [ ] Invite All to Come unto Christ and Make/Keep Covenants (conversion, covenant progression)
 
-> **Planning rubric:** this activity should not be approved until a leader can state which priority it serves and how it moves a YSA one step closer to Christ.
+!!! tip "Planning rubric"
+    this activity should not be approved until a leader can state which priority it serves and how it moves a YSA one step closer to Christ.
 
 ### Step 1 — Purpose & Priority
 

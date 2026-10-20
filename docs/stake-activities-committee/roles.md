@@ -18,7 +18,8 @@ The Priesthood Co-Chair, together with the Sister Co-Chair, owns the entire Acti
 - Manages the Activities Committee budget and sorts out any scheduling conflicts between categories.
 - Sends the monthly attendance and newcomer report to the YSA Council.
 
-> **What success looks like:** Activities happening on time and at a good standard every month, and staying within budget.
+!!! success "What success looks like"
+    Activities happening on time and at a good standard every month, and staying within budget.
 
 **Implementation Ideas**
 
@@ -50,7 +51,8 @@ The Sister Co-Chair sets the committee's standard for belonging — making sure 
 - Works with the Outreach & Shepherding Co-Leads to make sure less-active and new-move-in YSAs get personally invited.
 - Runs the after-event debriefs with each Category Lead and Activity Lead.
 
-> **What success looks like:** How many 48-hour follow-ups actually happen, and how many newcomers come back.
+!!! success "What success looks like"
+    How many 48-hour follow-ups actually happen, and how many newcomers come back.
 
 **Implementation Ideas**
 
@@ -81,7 +83,8 @@ The Social Lead owns the Social category from the Gathering Plan start to finish
 - Makes sure every social has a way to welcome first-timers — greeters, name tags, and some structured mingling.
 - Reports attendance and newcomer numbers to the Secretary after each event.
 
-> **What success looks like:** How attendance and newcomer turnout trend each month.
+!!! success "What success looks like"
+    How attendance and newcomer turnout trend each month.
 
 **Implementation Ideas**
 
@@ -112,7 +115,8 @@ The Service Lead owns the Service category — a quarterly stake-wide service pr
 - Lines up an Activity Lead for every service project.
 - Reports participation and service hours to the Secretary.
 
-> **What success looks like:** Quarterly participation numbers and the number of ward-level service opportunities offered.
+!!! success "What success looks like"
+    Quarterly participation numbers and the number of ward-level service opportunities offered.
 
 **Implementation Ideas**
 
@@ -143,7 +147,8 @@ This Adventure & Recreation Lead owns the outdoor and active-fellowship calendar
 - Keeps groups a manageable size so people can actually connect, and lines up an Activity Lead for every outing.
 - Handles safety planning for each activity; weather, terrain, waivers when needed.
 
-> **What success looks like:** Monthly and seasonal attendance, and whether carpools and inclusion plans are actually in place.
+!!! success "What success looks like"
+    Monthly and seasonal attendance, and whether carpools and inclusion plans are actually in place.
 
 **Implementation Ideas**
 
@@ -174,7 +179,8 @@ This Adventure & Recreation Lead runs the parallel outdoor and active-fellowship
 - Keeps groups a manageable size so people can actually connect, and lines up an Activity Lead for every outing.
 - Handles safety planning for each activity; weather, terrain, waivers when needed.
 
-> **What success looks like:** Monthly and seasonal attendance, and whether carpools and inclusion plans are actually in place.
+!!! success "What success looks like"
+    Monthly and seasonal attendance, and whether carpools and inclusion plans are actually in place.
 
 **Implementation Ideas**
 
@@ -205,7 +211,8 @@ The Signature Events Lead owns the year's marquee stake-wide gatherings — the 
 - Coordinates support from Social, Service, and Adventure, plus involvement from married-couple advisors, for each signature event.
 - Runs the Quarterly Signature Event Summit and updates the Co-Chairs on where things stand.
 
-> **What success looks like:** Events that feel high-quality and happen on schedule, with good turnout across wards.
+!!! success "What success looks like"
+    Events that feel high-quality and happen on schedule, with good turnout across wards.
 
 **Implementation Ideas**
 
@@ -237,7 +244,8 @@ Married couple advisors counsel, encourage, and share what they've learned — t
 - After events, talk privately with Category Leads and kindly ask what worked, what they learned, and what to try differently next time.
 - Coordinate who attends when with the Priesthood Co-Chair.
 
-> **What success looks like:** How confident and supported Category Leads and Activity Leads feel, and whether advisors show up to their assigned events.
+!!! success "What success looks like"
+    How confident and supported Category Leads and Activity Leads feel, and whether advisors show up to their assigned events.
 
 **Implementation Ideas**
 
@@ -268,7 +276,8 @@ The Ward Activity Representatives bring the Activities Committee's work home to 
 - Each Rep leads the 48-hour follow-up for newcomers and people who missed the event within their organization.
 - Both Reps recruit Connection Hosts for ward-hosted events and flag ward-level needs to the right Category Lead.
 
-> **What success looks like:** How well invitations and follow-up get done, and the ward's attendance trend.
+!!! success "What success looks like"
+    How well invitations and follow-up get done, and the ward's attendance trend.
 
 **Implementation Ideas**
 
@@ -299,7 +308,8 @@ The Activity Lead owns one specific event from start to finish — the person on
 - Recruits and briefs Connection Hosts for the event, with the Category Lead.
 - Reports attendance, newcomer, and follow-up info to the Category Lead within 48 hours of the event.
 
-> **What success looks like:** The event happening on time, the checklist completed, and the 48-hour report turned in.
+!!! success "What success looks like"
+    The event happening on time, the checklist completed, and the 48-hour report turned in.
 
 **Implementation Ideas**
 
@@ -329,7 +339,8 @@ The Connection Host is the front-line welcome at every event — the one job is 
 - Learns names and makes real introductions rather than leaving it to chance.
 - Passes along newcomer and absentee names to the Activity Lead for follow-up before leaving the event.
 
-> **What success looks like:** Whether newcomers say they made a real connection at the event (from the post-event survey).
+!!! success "What success looks like"
+    Whether newcomers say they made a real connection at the event (from the post-event survey).
 
 **Implementation Ideas**
 

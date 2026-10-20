@@ -61,7 +61,8 @@ Reporting flow: Ward Reps → Leads → Secretary (dashboard & monthly report) �
 - **Weeks 6–8:** first Full Council meeting; 90-day calendar published.
 - **Weeks 8–12:** first monthly report and first activities delivered under the new structure.
 
-> **Bottom line:** A 25-member, YSA-run Council — 13 executive seats plus ward reps — with a steady meeting rhythm and single reporting line keeps the stake presidency informed and able to guide through vision and approval, while the Council holds real ownership, clear accountability, and a direct connection to the plan's four priorities.
+!!! abstract "Bottom line"
+    A 25-member, YSA-run Council — 13 executive seats plus ward reps — with a steady meeting rhythm and single reporting line keeps the stake presidency informed and able to guide through vision and approval, while the Council holds real ownership, clear accountability, and a direct connection to the plan's four priorities.
 
 ## Organization Chart
 

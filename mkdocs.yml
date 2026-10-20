@@ -1,21 +1,21 @@
 site_name: Boise Idaho YSA Stake — Gathering Plan Guide
 site_description: Councils, committees, role charters, and the Married Couples Orientation Guide
-repo_url: https://github.com/mcb1510/gathering_plan_ysa_boise_stake
-repo_name: gathering_plan_ysa_boise_stake
 docs_dir: docs
 
 theme:
   name: material
+  custom_dir: overrides
+  font:
+    text: Noto Sans
+    code: Roboto Mono
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
+    - scheme: default
+      primary: custom
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: indigo
+    - scheme: slate
+      primary: custom
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -28,7 +28,11 @@ theme:
     - search.suggest
     - content.code.copy
 
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions:
+  - attr_list
   - admonition
   - tables
   - toc:
@@ -38,7 +42,13 @@ markdown_extensions:
 
 nav:
   - Home: README.md
-  - Gathering Plan: 01-gathering-plan.md
+  - Overview: overview.md
+  - Gathering Plan:
+      - Overall Plan: gathering-plan/index.md
+      - Stake Activities: gathering-plan/part-2-activities.md
+      - Athletics: gathering-plan/part-3-athletics.md
+      - Learning and Enrichment: gathering-plan/part-4-enrichment.md
+      - Month-by-Month Calendar: gathering-plan/part-5-calendar.md
   - Stake YSA Council:
       - Overview: stake-ysa-council/index.md
       - Roles: stake-ysa-council/roles.md

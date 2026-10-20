@@ -18,7 +18,8 @@ The Sister Co-Chair shares full leadership of the YSA Council with the Priesthoo
 - Partners with the Gathering Place & Covenant Progression Lead.
 - Represents the Council to Relief Society.
 
-> **What success looks like:** Belonging survey completion and trends; sister participation in "Know Them by Name."
+!!! success "What success looks like"
+    Belonging survey completion and trends; sister participation in "Know Them by Name."
 
 **Implementation Ideas**
 
@@ -52,7 +53,8 @@ The Priesthood Co-Chair shares leadership of the YSA Council with the Sister Co-
 - Reviews and recommends any Council calling changes to the stake presidency.
 - Makes sure every program stays Christ-centered and doctrine-first.
 
-> **What success looks like:** Monthly reports delivered on time; issues resolved within a week.
+!!! success "What success looks like"
+    Monthly reports delivered on time; issues resolved within a week.
 
 **Implementation Ideas**
 
@@ -86,7 +88,8 @@ The Outreach & Shepherding Co-Lead (Sister) co-owns the stake-level "Know Them b
 - Keeps the sister portion of the master roster current — active, less-active, non-attending, and new move-in YSAs.
 - Partners with the Sister Co-Chair on sister-specific outreach and on following through with belonging survey findings; sends sister outreach numbers to the Priesthood Co-Lead for the combined monthly report.
 
-> **What success looks like:** Percent of sisters on the roster contacted each month; sister move-ins reached within 7 days.
+!!! success "What success looks like"
+    Percent of sisters on the roster contacted each month; sister move-ins reached within 7 days.
 
 **Implementation Ideas**
 
@@ -121,7 +124,8 @@ The Outreach & Shepherding Co-Lead (Priesthood) co-owns the stake-level "Know Th
 - Keeps the brother portion of the master roster current, and reconciles the combined roster with the Sister Co-Lead each month.
 - Sends the combined outreach numbers to the Secretary each month for the dashboard; routes any referral that needs a bishop through the Priesthood Co-Chair.
 
-> **What success looks like:** Percent of brothers on the roster contacted each month; brother move-ins reached within 7 days; combined outreach report delivered on time.
+!!! success "What success looks like"
+    Percent of brothers on the roster contacted each month; brother move-ins reached within 7 days; combined outreach report delivered on time.
 
 **Implementation Ideas**
 
@@ -156,7 +160,8 @@ The Activities Co-Chair (Sister) sets the tone for belonging at every Category L
 - Works with the Outreach & Shepherding Co-Leads to make sure less-active and new-move-in YSAs get personally invited.
 - Runs the after-event debriefs with each Category Lead and Activity Lead.
 
-> **What success looks like:** How many 48-hour follow-ups actually happen, and how many newcomers come back.
+!!! success "What success looks like"
+    How many 48-hour follow-ups actually happen, and how many newcomers come back.
 
 **Implementation Ideas**
 
@@ -190,7 +195,8 @@ The Activities Co-Chair (Priesthood) keeps the six-week planning board on schedu
 - Manages the Activities Committee budget and sorts out any scheduling conflicts between categories.
 - Sends the monthly attendance and newcomer report to the YSA Council.
 
-> **What success looks like:** Activities happening on time and at a good standard every month, and staying within budget.
+!!! success "What success looks like"
+    Activities happening on time and at a good standard every month, and staying within budget.
 
 **Implementation Ideas**
 
@@ -224,7 +230,8 @@ The Athletics Co-Chair (Sister) shares ownership of the athletics calendar and p
 - Coordinates recruiting and training Connection Hosts with the Ward Athletics Representatives.
 - Tracks weekly attendance, absentee follow-up, and less-active/non-member turnout alongside the Priesthood Co-Lead.
 
-> **What success looks like:** How many 48-hour follow-ups actually happen, and how many newcomers come back.
+!!! success "What success looks like"
+    How many 48-hour follow-ups actually happen, and how many newcomers come back.
 
 **Implementation Ideas**
 
@@ -258,7 +265,8 @@ The Athletics Co-Chair (Priesthood) owns facility scheduling, equipment, and saf
 - Makes sure every league and open-play night includes the "More Than a Game" spiritual message and the written sportsmanship standard.
 - Recruits, briefs, and checks in with Sport Commissioners each season, and represents the Committee at the Stake YSA Council meeting.
 
-> **What it looks like when it's working:** Attendance trending up week over week; absentees contacted within 48 hours; seasons starting on time.
+!!! success "What it looks like when it's working"
+    Attendance trending up week over week; absentees contacted within 48 hours; seasons starting on time.
 
 **Implementation Ideas**
 
@@ -292,7 +300,8 @@ The Education & Enrichment Co-Chair (Sister) co-chairs every Committee Core meet
 - Represents the Committee at the monthly YSA Council meeting alongside the Priesthood Co-Chair.
 - Makes sure every enrichment night ends with a specific invitation to take a covenant step.
 
-> **Success metric:** Monthly enrichment attendance and trend; facilitators trained per cycle.
+!!! success "Success metric"
+    Monthly enrichment attendance and trend; facilitators trained per cycle.
 
 **Implementation Ideas**
 
@@ -326,7 +335,8 @@ The Education & Enrichment Co-Chair (Priesthood) manages the Committee's reporti
 - Makes sure Christ-centered framing and doctrine-first teaching standards are upheld across every enrichment night, workshop, and discussion group.
 - Delivers the monthly enrichment stewardship report to the YSA Council Co-Chairs, prepared by the Secretary.
 
-> **Success metric:** On-time monthly reports; teaching-standards compliance across all sessions.
+!!! success "Success metric"
+    On-time monthly reports; teaching-standards compliance across all sessions.
 
 **Implementation Ideas**
 
@@ -360,7 +370,8 @@ This Lead partners with Institute faculty to increase enrollment and remove barr
 - Lines up institute course topics with the stake's four curriculum threads where it makes sense.
 - Reports institute enrollment and temple recommend numbers to the Secretary.
 
-> **What success looks like:** Institute enrollment rate, temple recommend holders, and temple night attendance.
+!!! success "What success looks like"
+    Institute enrollment rate, temple recommend holders, and temple night attendance.
 
 **Implementation Ideas**
 
@@ -394,7 +405,8 @@ This Lead keeps the shared stake calendar accurate, runs the invitation flow for
 - Gathers stories — testimonies and experiences from leaders and YSAs — to keep momentum going.
 - Keeps the Council's communication channels (group chat, shared calendar, contact lists) up to date.
 
-> **What success looks like:** Calendar published 60+ days out; invite chain completed for each event.
+!!! success "What success looks like"
+    Calendar published 60+ days out; invite chain completed for each event.
 
 **Implementation Ideas**
 
@@ -428,7 +440,8 @@ The Secretary keeps the Council's records straight — minutes, action items, th
 - Tracks the Council roster, term dates, and upcoming turnover.
 - Runs the twice-a-year belonging survey and compiles the results.
 
-> **What success looks like:** Reports delivered on time; dashboard is accurate and complete.
+!!! success "What success looks like"
+    Reports delivered on time; dashboard is accurate and complete.
 
 **Implementation Ideas**
 
@@ -461,7 +474,8 @@ Ward Representatives carry the Gathering Plan into every ward — identifying me
 - Both attend the monthly Full Council meeting and bring stake-level assignments back to their ward.
 - Both raise ward-level needs and concerns up to the relevant Lead.
 
-> **What success looks like:** Ward-level contact and follow-up rate; ward attendance trend.
+!!! success "What success looks like"
+    Ward-level contact and follow-up rate; ward attendance trend.
 
 **Implementation Ideas**
 

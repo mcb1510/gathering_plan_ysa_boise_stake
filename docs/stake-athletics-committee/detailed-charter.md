@@ -91,7 +91,8 @@ Reports to: YSA Council Executive Co-Chairs
 - Makes sure every league and open-play night includes the "More Than a Game" spiritual message and the written sportsmanship standard.
 - Recruits, briefs, and checks in with Sport Commissioners each season, and represents the Committee at the Stake YSA Council meeting.
 
-> **What it looks like when it's working:** attendance trending up week over week; absentees contacted within 48 hours; seasons starting on time.
+!!! success "What it looks like when it's working"
+    attendance trending up week over week; absentees contacted within 48 hours; seasons starting on time.
 
 #### 4.2 Athletics Committee Co-Chair (Sister)
 
@@ -103,7 +104,8 @@ Reports to: YSA Council Executive Co-Chairs
 - Coordinates recruiting and training Connection Hosts with the Ward Athletics Representatives.
 - Tracks weekly attendance, absentee follow-up, and less-active/non-member turnout alongside the Priesthood Co-Chair.
 
-> **What success looks like:** How many 48-hour follow-ups actually happen, and how many newcomers come back.
+!!! success "What success looks like"
+    How many 48-hour follow-ups actually happen, and how many newcomers come back.
 
 #### 4.3 Sport Commissioner (one per sport, per season)
 
@@ -115,7 +117,8 @@ Reports to: Athletics Committee Co-Chairs
 - Runs the season opener and closer, including the stake tournament at the end.
 - Reports weekly attendance, any incidents, and roster changes to the Committee Secretary.
 
-> **What it looks like when it's working:** the season starts and ends on time; facility and officiating problems get fixed the same week.
+!!! success "What it looks like when it's working"
+    the season starts and ends on time; facility and officiating problems get fixed the same week.
 
 #### 4.4 Team Captain
 
@@ -127,7 +130,8 @@ Reports to: Sport Commissioner (functionally)
 - Leads a short prayer and a spiritual thought when a Commissioner or Connection Host isn't present.
 - Reports attendance and follow-up needs to the Sport Commissioner after each game.
 
-> **What it looks like when it's working:** team attendance trending up; most absentees contacted within 48 hours.
+!!! success "What it looks like when it's working"
+    team attendance trending up; most absentees contacted within 48 hours.
 
 #### 4.5 Connection Host (Athletics)
 
@@ -138,7 +142,8 @@ Reports to: Athletics Committee Co-Chairs (functionally); on-site Sport Commissi
 - Leads the pre-game prayer and spiritual thought when no Commissioner is around.
 - Passes the names of newcomers and absentees to the appropriate Team Captain or Sport Commissioner for follow-up within 48 hours.
 
-> **What it looks like when it's working:** newcomers greeted and remembered by name each night; follow-up actually happens.
+!!! success "What it looks like when it's working"
+    newcomers greeted and remembered by name each night; follow-up actually happens.
 
 #### 4.6 Facility & Equipment Steward
 
@@ -149,7 +154,8 @@ Reports to: Athletics Committee Co-Chairs
 - Owns first aid kits, injury procedures, concussion awareness, and any liability/release forms.
 - Brings unresolved facility conflicts to the Priesthood Co-Chair to sort out with bishops.
 
-> **What it looks like when it's working:** no facility conflicts left unresolved; equipment inventory is accurate; every safety incident gets logged and closed.
+!!! success "What it looks like when it's working"
+    no facility conflicts left unresolved; equipment inventory is accurate; every safety incident gets logged and closed.
 
 #### 4.7 Ward Athletics Representatives (Rep A & Rep B)
 
@@ -160,7 +166,8 @@ Reports to: Athletics Co-Chairs (day-to-day); ward bishopric liaison (for pastor
 - Tracks the ward's athletics attendance alongside activities and enrichment for their organization, and follows up with that organization's newcomers and absentees within 48 hours.
 - Attends the monthly Stake YSA Council meeting and flags any facility, safety, or participation concerns to the Athletics Co-Chairs.
 
-> **What it looks like when it's working:** ward-level attendance trending up; follow-up actually gets done.
+!!! success "What it looks like when it's working"
+    ward-level attendance trending up; follow-up actually gets done.
 
 #### 4.8 Married Couple Advisors
 
@@ -171,7 +178,8 @@ Reports to: Athletics Committee Co-Chairs (as mentors, not managers)
 - Model "connection before competition" and the adult-to-adult boundaries laid out in A Guide for Married Couples Serving in the Boise Idaho YSA Stake.
 - Coordinate who attends when with the Priesthood Co-Chair.
 
-> **What it looks like when it's working:** consistent attendance at league nights; Co-Chairs feel coached, not managed.
+!!! success "What it looks like when it's working"
+    consistent attendance at league nights; Co-Chairs feel coached, not managed.
 
 ### 5. How People Are Chosen, and For How Long
 
